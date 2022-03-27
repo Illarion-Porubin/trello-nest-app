@@ -1,0 +1,20 @@
+.MoreHorizIcon{
+  position: relative;
+  right: 0;
+}
+
+.titleList{
+  z-index: 1000;
+  font-size: 20px;
+  line-height: 22px;
+  font-weight: 700;
+  max-width: 170px;
+  border: none;
+  outline: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+input[type="text"]:focus{
+  outline : none;
+}

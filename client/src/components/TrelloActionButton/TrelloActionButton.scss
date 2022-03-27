@@ -1,0 +1,13 @@
+.btn{
+    margin-top: 10px;
+    border-radius: 4px;
+    transition: all .3s;
+    display: flex;
+    &:hover{
+        background-color: rgba(53, 53, 58, 0.5);
+    }
+    &__span{
+        padding: 3px;
+        margin-left: 2px;
+    }
+}

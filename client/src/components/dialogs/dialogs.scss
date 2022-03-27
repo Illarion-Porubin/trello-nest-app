@@ -1,0 +1,34 @@
+.card__text-wrapp{
+    // margin: 4px auto;
+    width: 100%;
+    height: 100%;
+    // word-break: break-all;
+}
+
+.card__wrapp{
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+}
+
+.card__author{
+    border: none;
+}
+
+.dialogs__time{
+    position: absolute;
+    bottom: 10px;
+    left: 20px;
+}
+
+.dialog__file-wrapp{
+    width: 100%;
+    position: relative;
+}
+
+// .dialog__file{
+//     position: absolute;
+//     right: 0;
+// }

@@ -1,0 +1,19 @@
+
+.card__content{
+    position: relative;
+    cursor: pointer;
+    &:hover{
+        .card__icon{
+            transition: all .4s;
+            opacity: 1;
+        }
+    }
+}
+
+.card__icon{
+    opacity: 0;
+    position: absolute;
+    right: 5px;
+    top: 2px;
+    cursor: pointer;
+}
